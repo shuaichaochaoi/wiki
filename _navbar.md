@@ -2,7 +2,7 @@
 
 * 链接到我
   * [博客园地址](https://www.cnblogs.com/defyou/)
-  * [Github地址](https://github.com/shuaichaochaoi)
+  * [Github地址](https://github.com/shuaichaochaoi/wiki)
 
 
 * 友情链接
