@@ -113,7 +113,7 @@ HTML提供了6个等级的网页标题，字号由大到小。
 
 下面是一处登录框的`form`表单，提交方式为`post`。
 
-![image-20220413224752549](C:\Users\帅超超\AppData\Roaming\Typora\typora-user-images\image-20220413224752549.png)
+![](https://gitee.com/defyou/BlogImageBed/raw/master/img/20220413224752549.png)
 
 2.规定在发送表单数据之前如何对其进行编码。
 
