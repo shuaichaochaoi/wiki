@@ -2,7 +2,7 @@
 
 ![logo](_media/icon.svg)
 
-# Qeminco的笔记世界 <small>1.0</small>
+# Qeminco的笔记 <small>1.0</small>
 
 > 💪hi，欢迎你的阅读，希望你能有所收获。
 
